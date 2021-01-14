@@ -1,0 +1,20 @@
+{
+  "name": "rezero-bots-mod",
+  "version": "1.0.0",
+  "description": "A mod bot for Rezero Bots Support",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GamearooCodes/Rezero-Bots-Mod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GamearooCodes/Rezero-Bots-Mod/issues"
+  },
+  "homepage": "https://github.com/GamearooCodes/Rezero-Bots-Mod#readme"
+}
