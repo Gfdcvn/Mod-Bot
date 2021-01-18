@@ -22,7 +22,7 @@ class AnimeClient extends Client {
     this.on("ready", async () => {
       console.log("Bot Has Started!");
       this.user.setPresence({
-        activity: { name: "ReZeo Bots Mod", type: "COMPETING" },
+        activity: { name: "Chats", type: "WATCHING" },
         status: "dnd",
       });
       var guild = this.guilds.cache.get(staffserver);
