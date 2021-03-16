@@ -3,3 +3,4 @@ Settings
 node_modules
 yarn.lock
 config.js
+*.zip
