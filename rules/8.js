@@ -12,7 +12,7 @@ async function r8(client, message, args, user) {
     .addField("Staff:", message.author)
     .setThumbnail(user.user.avatarURL({ dynamic: true }));
   message.channel.send(`Ok proper Action was taken thanks for letting me know`);
-  let rulenumber = "#2";
+  let rulenumber = "#8";
   let reason = "Using Excessive Cursing";
 
   let warnDoc = await warnModel.findOne({
