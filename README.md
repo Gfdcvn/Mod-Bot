@@ -1,2 +1,2 @@
 # Mod Bot
- A mod bot for Rezero Bots Support
+ A mod bot for Gamearoo's Server
